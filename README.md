@@ -37,6 +37,19 @@ Kali Linux هو توزيعة لينكس متخصصة في مجال الأمن ا
 [الموقع الرسمي nox player](https://www.bignox.com/)
 
 
+## تحميلTCPEye Network Tools  برابط مباشر :
+
+[تحميل TCPeye ](https://tcpeye-network-tools.en.uptodown.com/windows)
+
+##  تحميل XARP Tool  برابط مباشر :
+
+[تحميل XARP ](https://xarp.en.softonic.com/)
+
+## تحميل nmap  برابط مباشر :
+
+[تحميل NMAP GUI ](https://nmap.org/download.html#windows)
+
+
 ## تحميل Winrar لفك الضغط عن الملفات :
 قم بتحميل البرنامج من الرابط التالي :
 
