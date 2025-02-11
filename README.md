@@ -4,6 +4,7 @@ kali linux - vmware links to download
 
 ## تحميل VMware Workstation 9
 قم بتحميل VMware Workstation 9 من الرابط التالي:
+
 [تحميل VMware Workstation 9](https://www.youwindowsworld.com/en/downloads/virtualization/vmware/vmware-workstation-9)
 
 [تحميل VMware Workstation 17](https://www.techspot.com/downloads/1969-vmware-player.html)
@@ -13,6 +14,7 @@ VMware Workstation 9 هو برنامج لمحاكاة الأنظمة الافت�
 
 ## تحميل Kali Linux
 قم بتحميل Kali Linux من الرابط التالي:
+
 [الموقع الرسمي Kali Linux](https://www.kali.org/)
 
 [تحميل Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines/)
